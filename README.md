@@ -8,14 +8,6 @@ Features
 
 Basic Arithmetic Operations: Addition (+), Subtraction (-), Multiplication (*), and Division (/)
 
-Memory Functions:
-
-M+: Add the current value to memory
-
-M-: Subtract the current value from memory
-
-MRC: Recall the stored memory value
-
 Additional Functions:
 
 AC (All Clear): Clears all inputs and resets the calculator
